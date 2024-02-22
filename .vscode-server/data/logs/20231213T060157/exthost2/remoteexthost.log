@@ -1,0 +1,14 @@
+2023-12-13 06:02:20.148 [info] Extension host with pid 1010 started
+2023-12-13 06:02:20.261 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock': Lock acquired.
+2023-12-13 06:02:20.462 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-13 06:02:20.513 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-12-13 06:02:20.850 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-12-13 06:02:20.851 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-13 06:02:21.206 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-13 06:02:21.207 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-13 06:02:24.970 [info] Eager extensions activated
+2023-12-13 06:02:24.971 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 06:02:24.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 06:09:40.023 [info] Extension host terminating: received terminate message from renderer
+2023-12-13 06:09:40.024 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-13 06:09:40.111 [info] Extension host with pid 1010 exiting with code 0

@@ -1,0 +1,15 @@
+2023-12-08 08:16:57.888 [info] Extension host with pid 993 started
+2023-12-08 08:16:57.888 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock'
+2023-12-08 08:16:57.926 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-08 08:16:58.018 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock': The pid 967 appears to be gone.
+2023-12-08 08:16:58.018 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock': Deleting a stale lock.
+2023-12-08 08:16:58.099 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-12-08 08:16:58.101 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-08 08:16:58.504 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/a06171b507d269ae212eccc77d1c3ea3/vscode.lock': Lock acquired.
+2023-12-08 08:16:58.672 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-08 08:16:58.700 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-12-08 08:16:59.421 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-08 08:16:59.422 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-08 08:17:02.336 [info] Eager extensions activated
+2023-12-08 08:17:02.336 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-08 08:17:02.337 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

@@ -1,0 +1,15 @@
+{
+    "remote.SSH.remotePlatform": {
+        "192.168.43.226": "linux",
+        "192.168.43.126": "linux",
+        "192.168.43.26": "linux",
+        "192.168.126.26": "linux",
+        "192.168.20.77": "linux",
+        "192.168.20.21": "linux"
+    },
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 1
+}
